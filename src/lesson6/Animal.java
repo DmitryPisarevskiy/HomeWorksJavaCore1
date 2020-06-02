@@ -1,5 +1,6 @@
 package lesson6;
 
+
 import com.sun.jmx.snmp.SnmpUnknownAccContrModelException;
 
 public abstract class Animal {

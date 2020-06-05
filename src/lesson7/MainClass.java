@@ -1,6 +1,8 @@
 package lesson7;
 //Создать массив котов и тарелку с едой, попросить всех котов покушать из этой тарелки и потом вывести информацию о сытости котов в консоль.
 
+import java.util.Scanner;
+
 public class MainClass {
     public static void main(String[] args) {
         final int numOfCats=5;
